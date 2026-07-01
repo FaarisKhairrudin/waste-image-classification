@@ -34,6 +34,10 @@ outputs/submissions/*
 *.h5
 *.ckpt
 
+# Vercel skills (auto-generated)
+.agents/
+skills-lock.json
+
 # Hugging Face / cache
 .cache/
 hf_cache/
